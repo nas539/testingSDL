@@ -1,0 +1,27 @@
+PODS:
+  - BiSON (1.1.1)
+  - SmartDeviceLink (6.2.0):
+    - BiSON (~> 1.1.1)
+    - SmartDeviceLink/Default (= 6.2.0)
+  - SmartDeviceLink/Default (6.2.0):
+    - BiSON (~> 1.1.1)
+  - SwiftLint (0.31.0)
+
+DEPENDENCIES:
+  - SmartDeviceLink
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BiSON
+    - SmartDeviceLink
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  BiSON: 2663348e6c64bfbf9cc82e4b0b3f7eed2cb3eb6b
+  SmartDeviceLink: 1e25425a4a668880a7ad9378daa0effea38a97ef
+  SwiftLint: 7a0227733d786395817373b2d0ca799fd0093ff3
+
+PODFILE CHECKSUM: e3bfec7807a0ab63c05421ae74b6906687f81594
+
+COCOAPODS: 1.6.1
